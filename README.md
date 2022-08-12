@@ -1,6 +1,6 @@
 # cloud-hypervisor-obs
 
-The active development moved to https://github.com/cloud-hypervisor/obs-packaging. This repository is archived.
+<b>The active development moved to https://github.com/cloud-hypervisor/obs-packaging. This repository is archived.</b>
 
 This repository contains specifications to package [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) and accompanying software for various formats and Linux distributions. The packages built on [Open Build Service](https://build.opensuse.org/) are available through the [package repositories](https://download.opensuse.org/repositories/home:/weltling:/cloud-hypervisor/).
 
